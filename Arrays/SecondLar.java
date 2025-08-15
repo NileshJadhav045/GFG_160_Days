@@ -1,4 +1,4 @@
-
+// Day - 1
 public class SecondLar {
     /* GFG -> Second Largest
         Time Complexity: O(n)
