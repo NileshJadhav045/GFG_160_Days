@@ -1,5 +1,5 @@
 
-public class Day_50 {
+public class Day_51 {
 
     public static int countTriplets(int[] arr, int target) {
         int n = arr.length;
